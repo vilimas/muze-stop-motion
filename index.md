@@ -5,7 +5,7 @@ Release your creativity by making stop motion animations. It's a simple way to g
 
 Now you can create your own homemade movies for your family and friends with Muze - Stop Motion. It's an easy-to-use tool that will help you to fulfill your creative video ideas.
 
-Features
+### Features
 
 Camera
 - Capture frames
